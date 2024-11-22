@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+altair
+blinker
+cachetools
+python-dateutil
+pydeck
+tzlocal
+validators
+pillow
+protobuf
+tenacity
